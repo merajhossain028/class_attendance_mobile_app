@@ -92,7 +92,7 @@ class _addState extends State<add> {
                         child: Text(
                           dropDownStringItem,
                           style: const TextStyle(
-                            color: Colors.white,
+                            color: Colors.black54,
                             fontWeight: FontWeight.bold,
                             fontSize: 20,
                           ),
@@ -132,7 +132,7 @@ class _addState extends State<add> {
                         child: Text(
                           dropDownStringItem,
                           style: const TextStyle(
-                            color: Colors.white,
+                            color: Colors.black54,
                             fontWeight: FontWeight.bold,
                             fontSize: 20,
                           ),
